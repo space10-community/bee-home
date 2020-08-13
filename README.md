@@ -46,4 +46,4 @@ Online parametric tool: [Shapediver](https://www.shapediver.com)
 
 Digital Interface: [Bakken&Bæck](https://bakkenbaeck.com)
 
-Photo:[Irina Boersma](https://www.irinaboersma.com)
+Photo: [Irina Boersma](https://www.irinaboersma.com)
