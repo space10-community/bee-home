@@ -35,7 +35,11 @@ Good luck!
 # Credits
 
 Project owner: [SPACE10](https://space10.com)
+
 Bee Home design: [Tanita Klein](https://tanitaklein.com) 
+
 Grasshopper files: [ChipChop](https://www.chipchop.dk)
+
 Online parametric tool: [Shapediver](https://www.shapediver.com)
+
 Digital Interface: [Bakken&Bæck](https://bakkenbaeck.com)
