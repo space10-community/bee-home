@@ -3,12 +3,9 @@
 
  Bee Home explores how an open-source approach can improve the way we design, fabricate and distribute physical products.
 
- Consult the Readme.pdf document for more information
-
- SPACE10
+ Consult the Readme.pdf document for more information. 
  
- 
- https://github.com/space10-community/Bee-Home/SPACE10-Bee_Home_Makery_Process-Web-Photo_by_Irina_Boersma_04
+![SPACE10 Bee Home Photo by Irina Boersma](https://github.com/space10-community/Bee-Home/SPACE10-Bee_Home_Makery_Process-Web-Photo_by_Irina_Boersma_04)
  SPACE10-Bee_Home_Photo_by_Irina_Boersma
  
  
