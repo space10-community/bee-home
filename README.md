@@ -1,3 +1,5 @@
+![SPACE10 Bee Home — Photo by Irina Boersma](SPACE10-Bee_Home_Makery_Process-Web-Photo_by_Irina_Boersma_04.jpg)
+
 # About Bee Home
 
  Our lives — and planet Earth as a whole — would be very different if solitary bees didn’t exist. They’re vital for flowers, trees, animals and people. In fact, a third of what we eat depends on these busy, buzzing insects and other pollinators.
